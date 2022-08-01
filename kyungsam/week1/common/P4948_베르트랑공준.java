@@ -1,5 +1,5 @@
 
-public class P4948_소수문제 {
+public class P4948_베르트랑공준 {
 	public static int res;
 	public static int num1;
 	public static int num2;

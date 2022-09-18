@@ -1,8 +1,7 @@
 # :potato: 알고리즘 스터디
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white"/>
 change potato
-change two
-change three
+
 ### :pushpin: 목표
 ***
   * 백준 알고리즘 골드 티어

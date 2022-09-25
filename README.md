@@ -1,6 +1,5 @@
 # :potato: 알고리즘 스터디
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white"/>
-change potato
 
 ### :pushpin: 목표
 ***
